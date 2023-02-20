@@ -1,7 +1,7 @@
 # SquidSetup
 This 2 .sh scripts allows to make fast setup of squid-proxy to all servers from "servers.txt"
 
-Donate: 0x0e09a18d1ee2FA15AC811cBAe5169434781a1974
+**Donate: 0x0e09a18d1ee2FA15AC811cBAe5169434781a1974**
 
 
 - First you need to install sshpass by command "sudo apt-get install sshpass"
